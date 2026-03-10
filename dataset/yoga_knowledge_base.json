@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Yoga: Origins and Philosophy",
+    "keywords": ["yoga", "introduction", "philosophy", "origin", "history", "basics", "what is yoga", "overview"],
+    "content": "Yoga is an ancient practice originating in India over 5,000 years ago. The word 'yoga' comes from the Sanskrit word 'yuj', meaning to yoke or unite. Yoga unifies the body, mind, and spirit through a combination of physical postures (asanas), breathing exercises (pranayama), and meditation. The eight limbs of yoga as described by Patanjali include: Yama (ethical standards), Niyama (self-discipline), Asana (posture), Pranayama (breath control), Pratyahara (withdrawal of senses), Dharana (concentration), Dhyana (meditation), and Samadhi (enlightenment).",
+    "safetyNote": null
+  },
+  {
+    "id": 2,
+    "title": "Downward Facing Dog (Adho Mukha Svanasana)",
+    "keywords": ["downward dog", "adho mukha", "svanasana", "pose", "asana", "beginner", "stretch", "hamstring", "shoulders", "spine"],
+    "content": "Downward Facing Dog is one of the most recognised yoga poses. Begin on all fours, tuck your toes, and lift your hips up and back forming an inverted V-shape. Press your palms flat, spread your fingers wide, and lengthen your spine. Keep a slight bend in the knees if your hamstrings are tight. Hold for 5–10 breaths. Benefits include: full-body stretch, strengthens arms and legs, energises the body, improves circulation, and relieves back pain.",
+    "safetyNote": "Avoid if you have carpal tunnel syndrome or a wrist injury. Those with high blood pressure should hold for shorter durations."
+  },
+  {
+    "id": 3,
+    "title": "Yoga for Beginners: Starting Your Practice",
+    "keywords": ["beginner", "start", "new", "getting started", "basics", "foundation", "first time", "novice", "beginner yoga"],
+    "content": "Starting yoga can feel overwhelming, but consistency is more important than perfection. As a beginner, focus on these foundational poses: Mountain Pose (Tadasana), Child's Pose (Balasana), Cat-Cow (Marjaryasana-Bitilasana), and Corpse Pose (Savasana). Practice 3–4 times per week for 20–30 minutes. Listen to your body, never force a stretch. Use props like blocks and straps to make poses accessible. Choose a beginner or gentle yoga class.",
+    "safetyNote": null
+  },
+  {
+    "id": 4,
+    "title": "Pranayama: Breathing Techniques in Yoga",
+    "keywords": ["pranayama", "breathing", "breath", "breathwork", "breath control", "nadi shodhana", "anulom vilom", "kapalabhati", "ujjayi", "oxygen"],
+    "content": "Pranayama is the practice of controlled breathing in yoga. Key techniques include: (1) Ujjayi (Ocean Breath) – breathe through the nose with a slight constriction at the throat; calms the mind. (2) Nadi Shodhana (Alternate Nostril Breathing) – balances the left and right hemispheres of the brain; reduces anxiety. (3) Kapalabhati (Skull-Shining Breath) – rapid exhales to clear the respiratory tract; energising. (4) Bhramari (Bee Breath) – humming on exhale to reduce stress. Practice pranayama on an empty stomach, ideally in the morning.",
+    "safetyNote": "Kapalabhati and breath retention (kumbhaka) should be avoided during pregnancy, and by those with high blood pressure or heart conditions. Always start with gentle breathing and gradually deepen the practice."
+  },
+  {
+    "id": 5,
+    "title": "Yoga for Stress Relief and Anxiety",
+    "keywords": ["stress", "anxiety", "relief", "calm", "relax", "mental health", "depression", "tension", "nervous system", "peace"],
+    "content": "Yoga activates the parasympathetic nervous system (rest-and-digest), counteracting the stress response. Best poses for stress relief: (1) Child's Pose – deeply calming, promotes inner withdrawal. (2) Legs-Up-The-Wall (Viparita Karani) – reverses blood flow, deeply restorative. (3) Seated Forward Fold (Paschimottanasana) – soothes the nervous system. (4) Corpse Pose (Savasana) – complete relaxation. Combine with slow, deep breathing (4-count inhale, 8-count exhale) for maximum effect. A consistent yoga practice has been shown to lower cortisol levels.",
+    "safetyNote": null
+  },
+  {
+    "id": 6,
+    "title": "Prenatal Yoga: Yoga During Pregnancy",
+    "keywords": ["pregnancy", "prenatal", "pregnant", "maternity", "expecting", "trimester", "baby", "prenatal yoga", "safe pregnancy"],
+    "content": "Prenatal yoga is specially adapted for pregnant women and supports physical and emotional wellbeing throughout pregnancy. Benefits include: reduced back pain, improved sleep, reduced nausea, increased strength for labour, and emotional balance. Safe poses include: Cat-Cow, Seated Hip Circles, Supported Warrior II, and Bound Angle Pose. Always practice in the first trimester with caution and consult your obstetrician before starting.",
+    "safetyNote": "⚠️ PREGNANCY WARNING: Avoid poses that compress the abdomen, deep twists, backbends, inversions (headstand, shoulder stand), and hot yoga. Do not lie flat on your back after the first trimester. Always consult your doctor or certified prenatal yoga instructor before starting or continuing a yoga practice during pregnancy."
+  },
+  {
+    "id": 7,
+    "title": "Yoga for Hypertension (High Blood Pressure)",
+    "keywords": ["hypertension", "blood pressure", "high blood pressure", "heart", "cardiovascular", "blood pressure yoga", "bp"],
+    "content": "Yoga can help manage high blood pressure through a combination of gentle movement, relaxation, and breathing. Recommended poses: (1) Easy Pose (Sukhasana) with deep breathing. (2) Bridge Pose (Setu Bandhasana) – gentle version, hold briefly. (3) Corpse Pose (Savasana) – reduces heart rate. (4) Legs-Up-The-Wall – lowers blood pressure naturally. (5) Forward folds (gentle). Practice slow, controlled breathing with longer exhales.",
+    "safetyNote": "⚠️ HIGH BLOOD PRESSURE WARNING: Avoid inversions (headstands, shoulder stands), holding your breath (kumbhaka), intense heated yoga (Bikram), and poses that cause straining. Always consult your physician before beginning yoga if you have hypertension. Monitor your blood pressure regularly."
+  },
+  {
+    "id": 8,
+    "title": "Yoga for Back Pain Relief",
+    "keywords": ["back pain", "lower back", "spine", "back", "lumbar", "sciatica", "posture", "backache", "back injury"],
+    "content": "Yoga is highly effective for relieving chronic back pain. Best poses for back pain: (1) Cat-Cow – gently mobilises the spine. (2) Child's Pose – decompresses the lower back. (3) Supine Twist (Supta Matsyendrasana) – releases tension in the lumbar region. (4) Sphinx Pose – gentle backbend to strengthen the lower back. (5) Bridge Pose – strengthens the glutes and lower back. Practice these daily for best results, and focus on core strengthening to support the spine.",
+    "safetyNote": "Avoid deep backbends, forward folds with rounded spine, and high-impact sequences if you have a disc herniation or acute back injury. Consult a physiotherapist or doctor before starting."
+  },
+  {
+    "id": 9,
+    "title": "Meditation and Mindfulness in Yoga",
+    "keywords": ["meditation", "mindfulness", "dhyana", "mind", "focus", "awareness", "present", "consciousness", "stillness"],
+    "content": "Meditation is the seventh limb of yoga and cultivates a calm, focused mind. Techniques: (1) Breath Awareness – simply observe the natural breath. (2) Body Scan – move attention through the body systematically. (3) Mantra Meditation – silently repeat a word or phrase (e.g., 'So Hum'). (4) Loving-Kindness (Metta) – send compassion to yourself and others. Start with 5 minutes daily and gradually increase. Morning meditation sets a positive tone; evening meditation promotes restful sleep.",
+    "safetyNote": null
+  },
+  {
+    "id": 10,
+    "title": "Sun Salutation (Surya Namaskar) Step-by-Step",
+    "keywords": ["sun salutation", "surya namaskar", "sequence", "flow", "vinyasa", "warm up", "morning", "full body"],
+    "content": "Sun Salutation is a sequence of 12 poses that warms up the entire body. Steps: (1) Mountain Pose (Tadasana). (2) Upward Salute (Urdhva Hastasana). (3) Standing Forward Fold (Uttanasana). (4) Half Lift (Ardha Uttanasana). (5) Plank (Phalakasana). (6) Four-Limbed Staff (Chaturanga Dandasana). (7) Upward Dog (Urdhva Mukha Svanasana). (8) Downward Dog (Adho Mukha Svanasana). (9) Half Lift. (10) Forward Fold. (11) Upward Salute. (12) Mountain Pose. Perform 3–12 rounds, moving with the breath.",
+    "safetyNote": "Avoid if you have wrist injuries, recent abdominal surgery, or are in late pregnancy. Modify Chaturanga by dropping to the knees if needed."
+  },
+  {
+    "id": 11,
+    "title": "Yoga for Flexibility: Improving Range of Motion",
+    "keywords": ["flexibility", "stretch", "range of motion", "tight", "stiff", "muscles", "splits", "hamstrings", "hips", "mobile"],
+    "content": "Yoga progressively improves flexibility by lengthening muscles and connective tissue. Key flexibility-building poses: (1) Pigeon Pose – deep hip opener. (2) Seated Forward Fold – hamstring and back stretch. (3) Lizard Pose – opens hips and groin. (4) Reclining Hand-to-Big-Toe Pose – hamstring stretch. (5) Cow Face Pose (Gomukhasana) – shoulders and hips. Hold each pose for 60–90 seconds for full lengthening effect. Warm up before deep stretching and never force a stretch beyond your comfortable range.",
+    "safetyNote": "Hypermobile individuals should be careful not to overstretch. Focus on engaging muscles rather than pushing into extreme ranges."
+  },
+  {
+    "id": 12,
+    "title": "Restorative Yoga: Deep Rest and Recovery",
+    "keywords": ["restorative", "rest", "recovery", "gentle", "yin", "props", "bolster", "supported", "relaxation", "restorative yoga"],
+    "content": "Restorative yoga uses props (bolsters, blankets, blocks) to fully support the body in passive poses held for 5–20 minutes. This activates the parasympathetic nervous system for deep healing. Key poses: (1) Supported Child's Pose. (2) Supported Reclining Butterfly. (3) Legs Up the Wall. (4) Supported Bridge. (5) Supported Savasana. Ideal after illness, injury, stress, intense exercise, or for chronic fatigue. Practice in the evening for better sleep.",
+    "safetyNote": null
+  },
+  {
+    "id": 13,
+    "title": "Chair Yoga: Yoga for Limited Mobility and Seniors",
+    "keywords": ["chair yoga", "seniors", "elderly", "limited mobility", "wheelchair", "seated", "accessible", "gentle", "older adults"],
+    "content": "Chair yoga adapts traditional poses for those who cannot stand or need extra support. All poses are performed sitting in or standing behind a sturdy chair. Poses include: Seated Cat-Cow, Chair Warrior I, Seated Forward Fold, Chair Tree Pose, and Shoulder Rolls. Benefits: improved circulation, reduced joint pain, better balance, increased strength and flexibility. Chair yoga is safe for most seniors and those with limited mobility.",
+    "safetyNote": "Always use a stable, non-wheeled chair. Consult your doctor if you have recent surgery, severe osteoporosis, or a cardiovascular condition."
+  },
+  {
+    "id": 14,
+    "title": "Yoga for Insomnia and Better Sleep",
+    "keywords": ["sleep", "insomnia", "tired", "rest", "bedtime", "night", "sleep yoga", "better sleep", "relax before bed"],
+    "content": "Specific yoga practices before bedtime improve sleep quality and help with insomnia. Best bedtime yoga routine: (1) Legs Up the Wall – 5 minutes, calms the nervous system. (2) Supine Twist – releases tension. (3) Reclining Butterfly – opens hips, promotes rest. (4) Yogi Sleep Pose (Yoganidrasana) – deep relaxation. (5) Savasana with a body scan. Avoid stimulating practices (Kapalabhati, vigorous vinyasa) within 2 hours of bed. Use dim lighting during your practice.",
+    "safetyNote": null
+  },
+  {
+    "id": 15,
+    "title": "Yoga and Diabetes Management",
+    "keywords": ["diabetes", "blood sugar", "insulin", "glucose", "type 2", "metabolic", "diabetes yoga"],
+    "content": "Yoga can complement diabetes management by improving insulin sensitivity, reducing stress (which spikes blood sugar), and promoting weight management. Beneficial poses: (1) Seated Spinal Twist – stimulates the pancreas. (2) Legs Up the Wall – improves circulation. (3) Bridge Pose – strengthens the core and improves metabolic function. (4) Boat Pose – core strengthening. Combine with breathing practices and walking for comprehensive diabetes management.",
+    "safetyNote": "⚠️ DIABETES WARNING: Monitor blood glucose before and after yoga sessions. Avoid intense, prolonged sessions that may cause hypoglycaemia in medicated individuals. Consult your endocrinologist or physician before starting a yoga programme."
+  },
+  {
+    "id": 16,
+    "title": "Power Yoga and Athletic Performance",
+    "keywords": ["power yoga", "vinyasa", "athletic", "strength", "fitness", "workout", "intense", "advanced", "performance", "endurance"],
+    "content": "Power yoga is a vigorous, fitness-based approach derived from Ashtanga yoga. It builds strength, endurance, and flexibility simultaneously. Key sequences include: Sun Salutations, Warrior series (I, II, III), Plank to Chaturanga flows, and balancing poses. Benefits: builds lean muscle, improves athletic recovery, enhances focus, and burns calories. Recommended 3–5 times per week as part of a cross-training programme.",
+    "safetyNote": "Not suitable for complete beginners, those recovering from injury, or those with joint conditions. Always warm up properly and cool down with stretching."
+  },
+  {
+    "id": 17,
+    "title": "Yoga for Post-Surgery Recovery",
+    "keywords": ["surgery", "post-surgery", "recovery", "rehabilitation", "post-op", "healing", "injury recovery", "physical therapy"],
+    "content": "Yoga can support post-surgical recovery through gentle movement, breathwork, and mindfulness. In the early stages, focus on pranayama (breathing exercises) and Yoga Nidra (guided relaxation). As cleared by your surgeon, begin gentle chair yoga or restorative poses. Progress gradually to strengthening poses. Always work in coordination with your surgical and physiotherapy team.",
+    "safetyNote": "⚠️ POST-SURGERY WARNING: Do not begin yoga without explicit clearance from your surgeon and medical team. The timeline varies greatly depending on the type of surgery (orthopaedic, abdominal, cardiac, etc.). Avoid any poses that strain the surgical site. This content is for informational purposes only and is NOT a substitute for medical advice."
+  },
+  {
+    "id": 18,
+    "title": "Yoga Nidra: Yogic Sleep for Deep Relaxation",
+    "keywords": ["yoga nidra", "yogic sleep", "nidra", "guided relaxation", "nsdr", "deep relaxation", "sleep meditation"],
+    "content": "Yoga Nidra, or 'Yogic Sleep', is a systematic guided meditation that induces a state between waking and sleeping. A 30-minute session can be as restorative as 2–3 hours of sleep. The practice involves: setting an intention (Sankalpa), body rotation scan, pairs of opposites (heavy/light, hot/cold), visualisation, and return to wakefulness. Research shows Yoga Nidra reduces anxiety, PTSD symptoms, and chronic pain. Practise lying down in Savasana.",
+    "safetyNote": null
+  },
+  {
+    "id": 19,
+    "title": "Yoga for Weight Loss and Metabolism",
+    "keywords": ["weight loss", "lose weight", "metabolism", "burn calories", "fat", "obesity", "body weight", "diet", "weight management"],
+    "content": "While yoga is not primarily a weight-loss tool, dynamic styles create a caloric deficit and improve body composition. Most effective styles: Power Yoga, Vinyasa Flow, and Bikram (Hot Yoga). Complementary approaches: combine yoga with a balanced diet and cardiovascular exercise. Yoga also reduces emotional eating by building mindfulness and reducing stress-related cortisol (the fat-storage hormone). Consistency over intensity is key.",
+    "safetyNote": "Hot yoga (Bikram) should be avoided by those with cardiovascular conditions, high blood pressure, or during pregnancy."
+  },
+  {
+    "id": 20,
+    "title": "Yoga for Heart Health",
+    "keywords": ["heart", "cardiac", "cardiovascular", "heart health", "heart disease", "circulation", "blood flow", "heart rate"],
+    "content": "Yoga has been shown to improve multiple cardiac risk factors. Benefits: lowers blood pressure, reduces resting heart rate, decreases LDL cholesterol, reduces arterial stiffness, and lowers stress hormones. Best practices: gentle Hatha yoga, pranayama (especially slow breathing), Yoga Nidra, and meditation. Cardiac yoga programmes exist specifically for those with heart conditions and have demonstrated improved quality of life.",
+    "safetyNote": "⚠️ HEART CONDITION WARNING: If you have a diagnosed heart condition, arrhythmia, or have had a cardiac event, obtain written clearance from your cardiologist before starting yoga. Avoid intense or heated styles and inversions."
+  },
+  {
+    "id": 21,
+    "title": "Yoga Props: How to Use Blocks, Straps, and Bolsters",
+    "keywords": ["props", "blocks", "straps", "bolster", "blanket", "yoga equipment", "accessories", "tools", "modifications"],
+    "content": "Yoga props make poses accessible to all body types and experience levels. (1) Blocks – bring the floor closer to you in standing folds or support the hips in seated poses. (2) Straps – extend your reach in poses like Seated Forward Fold or Cow Face Pose. (3) Bolsters – support the body in restorative poses like Supported Bridge or Reclining Butterfly. (4) Blankets – provide cushioning under knees, hips, or as extra support. Props are never a sign of weakness; they ensure alignment and prevent injury.",
+    "safetyNote": null
+  },
+  {
+    "id": 22,
+    "title": "Ashtanga Yoga: The Eight-Limb Path",
+    "keywords": ["ashtanga", "eight limbs", "patanjali", "traditional yoga", "yoga sutras", "classical yoga", "advanced"],
+    "content": "Ashtanga Yoga, codified by Patanjali in the Yoga Sutras, describes an eight-fold path to liberation: (1) Yama – ethical restraints. (2) Niyama – personal observances. (3) Asana – physical postures. (4) Pranayama – breath control. (5) Pratyahara – withdrawal of senses. (6) Dharana – focused concentration. (7) Dhyana – meditation. (8) Samadhi – union and enlightenment. In modern usage, 'Ashtanga' also refers to a vigorous, set-sequence physical practice developed by K. Pattabhi Jois.",
+    "safetyNote": null
+  }
+]
