@@ -105,4 +105,4 @@ This application is for **educational purposes only**. Always consult a certifie
 
 - **Frontend (Streamlit Cloud)**: https://yoga-wellness-rag-app-bcsqqbtuwgiyct9aci4iqk.streamlit.app/
 - **Backend (Render)**: https://docs-chat-bot.onrender.com
-- **GitHub**: https://github.com/Poojaagadhe/yoga-wellness-rag-
+- **GitHub**: https://github.com/Poojaagadhe/yoga-wellness-rag-app
