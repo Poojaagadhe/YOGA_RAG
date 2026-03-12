@@ -105,5 +105,5 @@ This application is for **educational purposes only**. Always consult a certifie
 
 ## 🚀 Live URLs
 
-- **Frontend (Streamlit Cloud)**: https://yoga-wellness-rag-app-bcsqqbtuwgiyct9aci4iqk.streamlit.app/
-- **Backend (Render)**: https://docs-chat-bot.onrender.com
+- **Frontend (Streamlit Cloud)**: https://yogarag-lm3fx2u3fq4cxqk6gss6rk.streamlit.app/
+- **Backend (Render)**: https://yoga-rag-zqr0.onrender.com
