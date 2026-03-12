@@ -24,15 +24,29 @@ try {
 // ─────────────────────────────────────────────
 // MongoDB Connection
 // ─────────────────────────────────────────────
-const MONGO_URI = process.env.MONGO_URI || '';
+// Support common env var names across platforms (Render, Atlas, etc.)
+const MONGO_URI =
+  process.env.MONGO_URI ||
+  process.env.MONGODB_URI ||
+  process.env.DATABASE_URL ||
+  '';
 
 if (MONGO_URI) {
+  const source =
+    process.env.MONGO_URI
+      ? 'MONGO_URI'
+      : process.env.MONGODB_URI
+        ? 'MONGODB_URI'
+        : 'DATABASE_URL';
+  console.log(`ℹ️  MongoDB connection string found in ${source}`);
   mongoose
     .connect(MONGO_URI)
     .then(() => console.log('✅ MongoDB Atlas connected (query logging enabled)'))
     .catch((err) => console.warn('⚠️  MongoDB connection failed (query logging disabled):', err.message));
 } else {
-  console.warn('⚠️  MONGO_URI not set — query logging is disabled');
+  console.warn(
+    '⚠️  MongoDB URI env var not set (checked MONGO_URI, MONGODB_URI, DATABASE_URL) — query logging is disabled'
+  );
 }
 
 // ─────────────────────────────────────────────
