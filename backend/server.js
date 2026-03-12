@@ -29,8 +29,8 @@ const MONGO_URI = process.env.MONGO_URI || '';
 if (MONGO_URI) {
   mongoose
     .connect(MONGO_URI)
-    .then(() => console.log('✅ MongoDB Atlas connected'))
-    .catch((err) => console.warn('⚠️  MongoDB connection failed (logging disabled):', err.message));
+    .then(() => console.log('✅ MongoDB Atlas connected (query logging enabled)'))
+    .catch((err) => console.warn('⚠️  MongoDB connection failed (query logging disabled):', err.message));
 } else {
   console.warn('⚠️  MONGO_URI not set — query logging is disabled');
 }

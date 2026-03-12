@@ -1,10 +1,2 @@
-fastapi
-uvicorn
-langchain
-chromadb
-sentence-transformers
-python-dotenv
-pydantic
-numpy
-pandas
-tqdm
+streamlit>=1.31
+requests>=2.31

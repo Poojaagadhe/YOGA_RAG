@@ -22,13 +22,15 @@ dataset/yoga_knowledge_base.json (22 articles)
 yoga-wellness-rag-app/
 ├── frontend/
 │   ├── app.py              # Streamlit dark-mode UI
-│   └── requirements.txt
+│   └── .streamlit/
+│       └── secrets.toml     # Local dev only (gitignored)
 ├── backend/
 │   ├── server.js           # Express API + RAG pipeline
 │   ├── package.json
 │   └── .env.example        # Environment variable template
 ├── dataset/
 │   └── yoga_knowledge_base.json   # 22 curated articles
+├── requirements.txt        # Streamlit dependencies (Streamlit Cloud)
 ├── README.md
 └── .gitignore
 ```
@@ -50,7 +52,7 @@ node server.js
 
 ```bash
 cd frontend
-pip install -r requirements.txt
+pip install -r ../requirements.txt
 streamlit run app.py
 # → Opens http://localhost:8501
 ```
