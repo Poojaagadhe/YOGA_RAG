@@ -1,0 +1,10 @@
+{
+  "name": "yoga-rag-monorepo",
+  "private": true,
+  "description": "Streamlit frontend + Express backend for Yoga RAG",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node backend/server.js"
+  }
+}
+

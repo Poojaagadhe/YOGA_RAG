@@ -3,8 +3,7 @@ services:
     name: yoga-wellness-rag-backend
     runtime: node
     plan: free
-    rootDir: backend
-    buildCommand: npm ci
+    buildCommand: npm ci --prefix backend
     startCommand: npm start
     envVars:
       - key: NODE_VERSION
