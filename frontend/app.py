@@ -18,7 +18,7 @@ st.set_page_config(
 try:
     BACKEND_URL = st.secrets["BACKEND_URL"]
 except Exception:
-    BACKEND_URL = "http://localhost:3001"
+    BACKEND_URL = "https://yoga-rag-zqr0.onrender.com"
 
 # ─────────────────────────────────────────────
 # Dark-Mode CSS + Animations
